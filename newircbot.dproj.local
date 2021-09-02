@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/02/18 23:14:43.000.515,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\irc_translator.pas</Transaction>
+    <Transaction>2012/02/18 23:18:51.000.500,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\irc_translator.pas=</Transaction>
+    <Transaction>2012/02/18 23:28:47.000.234,C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\newircbot.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\Project2.dproj</Transaction>
+    <Transaction>2012/02/18 23:29:07.000.625,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\newirc\ircbotnew.dfm=C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\Unit1.dfm</Transaction>
+    <Transaction>2012/02/18 23:29:07.000.625,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\newirc\ircbotnew.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\Unit1.pas</Transaction>
+    <Transaction>2012/02/18 23:29:24.000.796,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\newirc\newircbot.dproj=C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\newircbot.dproj</Transaction>
+    <Transaction>2012/02/18 23:29:45.000.250,=C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\Unit1.pas</Transaction>
+    <Transaction>2012/02/18 23:32:14.000.031,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\Token.pas</Transaction>
+    <Transaction>2012/02/18 23:32:22.000.609,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\newirc\Token.pas=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\Token.pas</Transaction>
+    <Transaction>2012/02/18 23:32:33.000.546,C:\Documents and Settings\r00t\My Documents\RAD Studio\sources\zonkbot-src\Unit1.pas=</Transaction>
+    <Transaction>2012/02/18 23:35:52.000.812,=C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\irc_translator.pas</Transaction>
+    <Transaction>2012/02/18 23:37:01.000.921,C:\Documents and Settings\r00t\My Documents\RAD Studio\Projects\irc_translator\irc_translator.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
